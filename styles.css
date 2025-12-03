@@ -47,6 +47,11 @@ a:visited {
   background: #eee;
 }
 
+  .left-list {
+    text-align: left !important;     
+    margin: 0 auto;                   
+  }
+
 @media (max-width: 460px) {
   #main {
     margin: 0;
@@ -88,9 +93,6 @@ ul {
   line-height: 1.6;
 }
 
-li {
-  margin: 16px 0;
-}
 
 blockquote {
   font-style: italic;
